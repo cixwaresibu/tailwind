@@ -12,7 +12,9 @@ html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
-
+.sibu{
+  opacity: 65%;
+}
 /* Sections
    ========================================================================== */
 
@@ -49,6 +51,9 @@ h1 {
  * 1. Add the correct box sizing in Firefox.
  * 2. Show the overflow in Edge and IE.
  */
+/* custom style */
+
+
 
 hr {
   box-sizing: content-box; /* 1 */
